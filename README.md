@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+🔬
+
+👨‍💻
+
+📈 
+
+🤖 
+
+🎨 
+
+
+
+
+
+[![LinkedIn](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=http://linkedin.com/in/dylan-garamani-ab2721158)](http://linkedin.com/in/dylan-garamani-ab2721158)
+
+
+
 <!--
 **DylanGaramani/DylanGaramani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +32,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[![LinkedIn](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=http://linkedin.com/in/dylan-garamani-ab2721158)](http://linkedin.com/in/dylan-garamani-ab2721158)
