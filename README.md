@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-
+🔬 My research focuses on leveraging computational modeling to accelerate TB drug development.
 
 
 📫 Feel free to reach out to me via email for any questions or collaborations:
